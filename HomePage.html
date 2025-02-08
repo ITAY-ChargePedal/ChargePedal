@@ -1,0 +1,31 @@
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Charging While Riding</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    <header>
+        <h1>Charging While Riding – A Smart Solution for Cyclists!</h1>
+        <p>Introducing the revolutionary charging system installed on bicycles, keeping your battery full throughout the ride!</p>
+
+        <!-- Navigation menu -->
+        <nav>
+            <ul>
+                <li><a href="HomePage.html">Home</a></li>
+                <li><a href="product.html">Product</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+
+        <a href="product.html">Buy Now – Only 55 ILS</a>
+    </header>
+
+    <footer>
+        <p>© 2025 All rights reserved</p>
+    </footer>
+</body>
+</html>
