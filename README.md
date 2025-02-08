@@ -3,7 +3,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Charging While Riding</title>
-    <link rel="stylesheet" href="style.css"> 
+  markdown
+     [Click here to view the code page](CodePage.md)
+ 
 </head>
 <body>
     <header>
